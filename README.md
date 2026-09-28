@@ -196,10 +196,3 @@ python src/train_mnist.py
 
 The first run downloads MNIST automatically.
 
-## Submission Checklist
-
-- [ ] Add your college, branch, and year/semester.
-- [ ] Add Task 1 Air Quality files/results if required.
-- [ ] Run the MNIST project and verify the generated metrics.
-- [ ] Review the plots and README.
-- [ ] Confirm the repository is public.
