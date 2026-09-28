@@ -3,11 +3,13 @@
 ## Candidate Details
 
 - **Name:** Aditya
-- **Role:** Student
+- **Year** 2nd Year
+- **Roll No** RA2511026010109
+- **Branch** CSE ws AI & ML
 - **Submission:** AI/ML Recruitment 2026
 - **Repository:** `AIMLRecruitment10x2026`
 
-> Add your college, branch, year/semester, and any other required candidate details before submission.
+
 
 
 
