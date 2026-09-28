@@ -9,16 +9,7 @@
 
 > Add your college, branch, year/semester, and any other required candidate details before submission.
 
----
 
-## Tasks Completed
-
-| Task | Status |
-|---|---|
-| Task 1: Air Quality | Add your Task 1 files/results here if required by the recruitment process |
-| Task 2: Neural Network — MNIST | Completed |
-
----
 
 # Task 2 — MNIST Handwritten Digit Classification
 
